@@ -29,7 +29,7 @@ CTO [@montcao](https://www.montcao.com/)
 - State estimation, anomaly detection, and predictive modeling
 - Cross company models integrated into one common environment
 
-### Large Language Models
+### Large Language Models in Mission Planning
 - Streamlining real time decisions within seconds
 - Tool-augmented and agentic architectures
 - Optimization, inference efficiency, and safety-aware design
