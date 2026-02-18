@@ -18,7 +18,6 @@ Senior AI/ML Engineer working in space, forefront of research in LLM capabilites
 Focusing on turning complex systems into **reliable, explainable, and scalable solutions**.
 <br>
 
-CTO [@montcao](https://www.montcao.com/)
 
 ---
 
