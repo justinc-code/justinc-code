@@ -1,4 +1,4 @@
-# Senior AI / ML Engineer | Space | OAIP
+# Senior AI / ML Engineer | Space | AIP
 
 Building intelligent systems at an orbital scale
 
